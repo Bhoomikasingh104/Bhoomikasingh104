@@ -23,7 +23,7 @@ solutions and exploring emerging technologies.
 - 💻 Interested in Software Development, AI and Data Science
 - 🌱 Currently strengthening my skills in programming and problem-solving
 - 🔍 Enjoy exploring new technologies and building projects
-- 📍 Hyderabad, India
+  
 
 ---
 
