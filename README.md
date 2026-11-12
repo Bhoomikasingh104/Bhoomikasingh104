@@ -1,6 +1,10 @@
 ## Hi there 👋
 # 💫 About Me:
-Computer Science graduate | Python, Java, SQL | Exploring Software Development, AI & Data Science
+Computer Science graduate interested in software development, artificial intelligence, and data-driven applications.
+
+I enjoy building projects, exploring new technologies, and strengthening my understanding of computer science fundamentals.
+
+Currently working with Python, Java, SQL, and modern AI tools.
 
 
 ## 🌐 Socials:
